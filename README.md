@@ -3,7 +3,7 @@
 ### Estrutura e padrões
 ###### 2 aulas
 
-- [ ] Configurando estrutura
+- [x] Configurando estrutura
 - [ ] Debugando NodeJS
 
 ### Construindo Aplicação
