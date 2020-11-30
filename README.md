@@ -1,10 +1,14 @@
 # Bootcamp Nivel-02 Node-js, React-JS, React Native e Typescript
 
 ### Estrutura e padrões
-###### 2 aulas
+###### 7 aulas
 
 - [x] Configurando estrutura
-- [ ] Debugando NodeJS
+- [x] EditorConfig
+- [x] ESLint
+- [x] Importando Arquivos TS
+- [x] Prettier
+- [x] Debugando o NodeJS
 
 ### Construindo Aplicação
 ###### 8 aulas
