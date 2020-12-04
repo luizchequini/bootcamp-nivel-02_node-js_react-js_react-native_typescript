@@ -19,7 +19,7 @@
 - [x] Validando a data
 - [x] Model de Agendamento
 - [x] Criando repositórios
-- [ ] Listando Agendamentos
+- [x] Listando Agendamentos
 - [ ] Trabalhando com dados
 - [ ] Services & SOLID
 
