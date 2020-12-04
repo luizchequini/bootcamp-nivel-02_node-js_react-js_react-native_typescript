@@ -20,7 +20,7 @@
 - [x] Model de Agendamento
 - [x] Criando repositórios
 - [x] Listando Agendamentos
-- [ ] Trabalhando com dados
+- [x] Trabalhando com dados
 - [ ] Services & SOLID
 
 ### Banco de dados
