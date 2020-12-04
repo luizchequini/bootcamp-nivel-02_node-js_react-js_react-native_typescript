@@ -13,12 +13,12 @@
 ### Construindo Aplicação
 ###### 8 aulas
 
-- [ ] Layout da Aplicação
-- [ ] Layout no Figma
-- [ ] Cadastro de Agendamentos
-- [ ] Validando a data
-- [ ] Model de Agendamento
-- [ ] Criando repositórios
+- [x] Layout da Aplicação
+- [x] Layout no Figma
+- [x] Cadastro de Agendamentos
+- [x] Validando a data
+- [x] Model de Agendamento
+- [x] Criando repositórios
 - [ ] Listando Agendamentos
 - [ ] Trabalhando com dados
 - [ ] Services & SOLID
