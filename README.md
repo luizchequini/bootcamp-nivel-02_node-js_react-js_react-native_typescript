@@ -21,7 +21,7 @@
 - [x] Criando repositórios
 - [x] Listando Agendamentos
 - [x] Trabalhando com dados
-- [ ] Services & SOLID
+- [x] Services & SOLID
 
 ### Banco de dados
 ###### 7 aulas
