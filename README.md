@@ -26,12 +26,12 @@
 ### Banco de dados
 ###### 7 aulas
 
-- [ ] Estratégias de abstração
-- [ ] Conceitos Docker
-- [ ] Instalando Docker
-- [ ] Criando container do banco
-- [ ] Configurando TypeORM
-- [ ] Criando tabela de agendamentos
+- [x] Estratégias de abstração
+- [x] Conceitos Docker
+- [x] Instalando Docker
+- [x] Criando container do banco
+- [x] Configurando TypeORM
+- [x] Criando tabela de agendamentos
 - [ ] Criando model de agendamento
 - [ ] Repositório do TypeORM
 
