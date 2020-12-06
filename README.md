@@ -32,7 +32,7 @@
 - [x] Criando container do banco
 - [x] Configurando TypeORM
 - [x] Criando tabela de agendamentos
-- [ ] Criando model de agendamento
+- [x] Criando model de agendamento
 - [ ] Repositório do TypeORM
 
 ### Cadastro de Usuários
