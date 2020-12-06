@@ -33,7 +33,7 @@
 - [x] Configurando TypeORM
 - [x] Criando tabela de agendamentos
 - [x] Criando model de agendamento
-- [ ] Repositório do TypeORM
+- [x] Repositório do TypeORM
 
 ### Cadastro de Usuários
 ###### 4 aulas
