@@ -38,7 +38,7 @@
 ### Cadastro de Usuários
 ###### 4 aulas
 
-- [ ] Model e migration de usuários
+- [x] Model e migration de usuários
 - [ ] Relacionamento nos models
 - [ ] Criação de registros
 - [ ] Criptografia de senha
