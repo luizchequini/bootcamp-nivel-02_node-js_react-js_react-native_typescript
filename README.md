@@ -41,7 +41,7 @@
 - [x] Model e migration de usuários
 - [x] Relacionamento nos models
 - [x] Criação de registros
-- [ ] Criptografia de senha
+- [x] Criptografia de senha
 
 ### Autenticação
 4 aulas
