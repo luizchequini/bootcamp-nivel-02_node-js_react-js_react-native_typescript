@@ -40,7 +40,7 @@
 
 - [x] Model e migration de usuários
 - [x] Relacionamento nos models
-- [ ] Criação de registros
+- [x] Criação de registros
 - [ ] Criptografia de senha
 
 ### Autenticação
