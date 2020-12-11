@@ -48,7 +48,7 @@
 
 - [x] Conceitos de JWT
 - [x] Validando credenciais
-- [ ] Gerando token JWT
+- [x] Gerando token JWT
 - [ ] Rotas autenticadas
 
 ### Upload de imagens
