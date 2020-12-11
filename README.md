@@ -46,8 +46,8 @@
 ### Autenticação
 4 aulas
 
-- [ ] Conceitos de JWT
-- [ ] Validando credenciais
+- [x] Conceitos de JWT
+- [x] Validando credenciais
 - [ ] Gerando token JWT
 - [ ] Rotas autenticadas
 
