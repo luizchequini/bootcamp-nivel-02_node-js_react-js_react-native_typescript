@@ -49,7 +49,7 @@
 - [x] Conceitos de JWT
 - [x] Validando credenciais
 - [x] Gerando token JWT
-- [ ] Rotas autenticadas
+- [x] Rotas autenticadas
 
 ### Upload de imagens
 ###### 3 aulas
