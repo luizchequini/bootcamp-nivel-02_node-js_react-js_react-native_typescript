@@ -61,6 +61,6 @@
 ### Tratando exceções
 ###### 2 aulas
 
-- [ ] Criando classe de erro
+- [x] Criando classe de erro
 - [ ] Lidando com erros
 

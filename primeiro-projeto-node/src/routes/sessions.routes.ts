@@ -1,6 +1,7 @@
 import { Router } from 'express';
 
 import AuthenticateUserService from '../services/AuthenticateUserService';
+import AppError from '../erros/AppError';
 
 const sessionsRouter = Router();
 
@@ -17,7 +18,7 @@ sessionsRouter.post('/', async (request, response) => {
         // delete user.password;
         return response.json({ user, token });
     } catch (e) {
-        return response.status(400).json({ error: e.message });
+        return response.status(e.statusCode).json({ error: e.message });
     }
 });
 
