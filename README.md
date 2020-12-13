@@ -54,8 +54,8 @@
 ### Upload de imagens
 ###### 3 aulas
 
-- [ ] Upload de arquivos
-- [ ] Atualizando avatar
+- [x] Upload de arquivos
+- [x] Atualizando avatar
 - [ ] Servindo arquivos estáticos
 
 ### Tratando exceções
