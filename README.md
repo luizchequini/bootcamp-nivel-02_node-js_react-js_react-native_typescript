@@ -56,7 +56,7 @@
 
 - [x] Upload de arquivos
 - [x] Atualizando avatar
-- [ ] Servindo arquivos estáticos
+- [x] Servindo arquivos estáticos
 
 ### Tratando exceções
 ###### 2 aulas
