@@ -62,5 +62,5 @@
 ###### 2 aulas
 
 - [x] Criando classe de erro
-- [ ] Lidando com erros
+- [x] Lidando com erros
 
